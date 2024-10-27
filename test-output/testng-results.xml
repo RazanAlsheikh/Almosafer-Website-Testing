@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-27T22:26:21 GMT+03:00" name="Default suite" finished-at="2024-10-27T22:26:57 GMT+03:00" duration-ms="36277">
+    <groups>
+    </groups>
+    <test started-at="2024-10-27T22:26:21 GMT+03:00" name="Default test" finished-at="2024-10-27T22:26:57 GMT+03:00" duration-ms="36277">
+      <class name="HomePage.TestCases">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:HomePage.TestCases@4cf8b2dc]" started-at="2024-10-27T22:26:21 GMT+03:00" name="SetUp" finished-at="2024-10-27T22:26:25 GMT+03:00" duration-ms="3934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="checkDefaultLanguageIsEnglish()[pri:1, instance:HomePage.TestCases@4cf8b2dc]" started-at="2024-10-27T22:26:25 GMT+03:00" name="checkDefaultLanguageIsEnglish" finished-at="2024-10-27T22:26:25 GMT+03:00" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDefaultLanguageIsEnglish -->
+        <test-method signature="CheckDefaultCurrency()[pri:2, instance:HomePage.TestCases@4cf8b2dc]" started-at="2024-10-27T22:26:25 GMT+03:00" name="CheckDefaultCurrency" finished-at="2024-10-27T22:26:25 GMT+03:00" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDefaultCurrency -->
+        <test-method signature="CheckContactNumber()[pri:3, instance:HomePage.TestCases@4cf8b2dc]" started-at="2024-10-27T22:26:25 GMT+03:00" name="CheckContactNumber" finished-at="2024-10-27T22:26:25 GMT+03:00" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckContactNumber -->
+        <test-method signature="CheckQitafLogo()[pri:4, instance:HomePage.TestCases@4cf8b2dc]" started-at="2024-10-27T22:26:25 GMT+03:00" name="CheckQitafLogo" finished-at="2024-10-27T22:26:25 GMT+03:00" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckQitafLogo -->
+        <test-method signature="CheckSaysTabIsnotSelected()[pri:5, instance:HomePage.TestCases@4cf8b2dc]" started-at="2024-10-27T22:26:25 GMT+03:00" name="CheckSaysTabIsnotSelected" finished-at="2024-10-27T22:26:25 GMT+03:00" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckSaysTabIsnotSelected -->
+        <test-method signature="CheckDepartureDate()[pri:6, instance:HomePage.TestCases@4cf8b2dc]" started-at="2024-10-27T22:26:25 GMT+03:00" name="CheckDepartureDate" finished-at="2024-10-27T22:26:25 GMT+03:00" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDepartureDate -->
+        <test-method signature="RandomlyChangeTheLanguage()[pri:7, instance:HomePage.TestCases@4cf8b2dc]" started-at="2024-10-27T22:26:25 GMT+03:00" name="RandomlyChangeTheLanguage" finished-at="2024-10-27T22:26:25 GMT+03:00" duration-ms="570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RandomlyChangeTheLanguage -->
+        <test-method signature="FillStayTab()[pri:8, instance:HomePage.TestCases@4cf8b2dc]" started-at="2024-10-27T22:26:26 GMT+03:00" name="FillStayTab" finished-at="2024-10-27T22:26:26 GMT+03:00" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillStayTab -->
+        <test-method signature="RandomlySelectNumbersOfVisitors()[pri:9, instance:HomePage.TestCases@4cf8b2dc]" started-at="2024-10-27T22:26:26 GMT+03:00" name="RandomlySelectNumbersOfVisitors" finished-at="2024-10-27T22:26:28 GMT+03:00" duration-ms="1838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RandomlySelectNumbersOfVisitors -->
+        <test-method signature="CheckLoadingBarFullyCompleted()[pri:10, instance:HomePage.TestCases@4cf8b2dc]" started-at="2024-10-27T22:26:28 GMT+03:00" name="CheckLoadingBarFullyCompleted" finished-at="2024-10-27T22:26:57 GMT+03:00" duration-ms="29127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckLoadingBarFullyCompleted -->
+      </class> <!-- HomePage.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
